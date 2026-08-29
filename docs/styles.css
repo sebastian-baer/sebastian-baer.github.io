@@ -30,7 +30,15 @@
 }
 
 /* Mobile */
+
 @media (max-width: 700px) {
+  .blog-link {
+    position: static;
+    display: block;
+    text-align: right;
+    margin-bottom: 1rem;
+
+  }
   .profile-grid {
     grid-template-columns: 1fr;
     gap: 1.5rem;
