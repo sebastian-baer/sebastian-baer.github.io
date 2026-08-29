@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  
+  search: false
+  navbar: false
+
+format:
+  html:
+    theme: journal
+    css: styles.css
