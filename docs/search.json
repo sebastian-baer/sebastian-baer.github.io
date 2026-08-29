@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "krimskrams/posts/test/index.html",
+    "href": "krimskrams/posts/test/index.html",
+    "title": "My first post",
+    "section": "",
+    "text": "This is a test post."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sebastian Baer",
@@ -7,17 +14,10 @@
     "text": "Button!\n\n\n\n\n\nSebastian Baer\nHey! I am a fourth year medical student and particularly interested in cardiovascular medicine and cardiometabolic disease.\nCurrently doing my MD thesis (Dr. med.) in the labs for invasive hemodynamics (AG Alogna) and Translational Approaches in Heart Failure and Cardiometabolic Disease (AG Schiattarella).\nEmail: sebastian (dot) baer (at) charite (dot) de"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
+    "objectID": "krimskrams/index.html",
+    "href": "krimskrams/index.html",
     "title": "Krimskrams",
     "section": "",
     "text": "My first post\n\n\n\n\n\n\n\n\nAug 29, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/test/index.html",
-    "href": "blog/posts/test/index.html",
-    "title": "My first post",
-    "section": "",
-    "text": "This is a test post."
   }
 ]

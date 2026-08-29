@@ -7,5 +7,11 @@
   },
   "blog/posts/test/index.qmd": {
     "index.html": "19540d38"
+  },
+  "krimskrams/index.qmd": {
+    "index.html": "06203a90"
+  },
+  "krimskrams/posts/test/index.qmd": {
+    "index.html": "a559a19d"
   }
 }
