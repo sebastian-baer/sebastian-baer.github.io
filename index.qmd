@@ -1,4 +1,6 @@
-
+---
+pagetitle: "Sebastian Baer"
+---
 
 <a href="blog/" class="blog-link">Button!</a>
 
