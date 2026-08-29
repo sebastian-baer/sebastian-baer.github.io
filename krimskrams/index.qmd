@@ -5,3 +5,5 @@ listing:
   contents: posts
   sort: "date desc"
 ---
+
+<a href="../" class="back-link">← Back</a>

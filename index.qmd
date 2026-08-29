@@ -2,7 +2,7 @@
 pagetitle: "Sebastian Baer"
 ---
 
-<a href="krimskrams\" class="krimskrams-link">Button!</a>
+<a href="krimskrams/" class="krimskrams-link">Button!</a>
 
 ::: {.profile-grid}
 

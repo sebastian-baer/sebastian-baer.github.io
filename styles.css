@@ -1,4 +1,4 @@
-.blog-link {
+.krimskrams-link {
   position: absolute;
   top: 30px;
   right: 45px;
@@ -8,7 +8,7 @@
   font-size: 1.1rem;
 }
 
-.blog-link:hover {
+.krimskrams-link:hover {
   text-decoration: underline;
 }
 
@@ -29,10 +29,24 @@
   margin-top: 0;
 }
 
+.back-link {
+  text-decoration: none;
+  color: #222;
+  font-size: 1.1rem;
+  position: absolute;
+  top: 30px;
+  right: 45px;
+
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
 /* Mobile */
 
 @media (max-width: 700px) {
-  .blog-link {
+  .krimskrams-link {
     position: static;
     display: block;
     text-align: right;
@@ -46,5 +60,11 @@
 
   .profile-photo img {
     max-width: 300px;
+  }
+  .back-link {
+    position: static;
+    display: block;
+    text-align: right;
+    margin-bottom: 1rem;
   }
 }
