@@ -11,4 +11,6 @@ format:
   html:
     theme: journal
     css: styles.css
-    include-in-header: verfication.html
+    include-in-header: 
+    - verfication.html 
+    - analytics.html
